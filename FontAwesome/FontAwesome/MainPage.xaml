@@ -19,6 +19,13 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Image>
+            <Image.Source>
+                <FontImageSource FontFamily="FontAwesome5Regular"
+                                 Color="Black"
+                                 Glyph="&#xf164;"/>
+            </Image.Source>
+        </Image>
     </StackLayout>
 
 </ContentPage>
